@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naman Gupta
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning DSA for competative programing
+- 👀 I am a backend developer and love to design the simple but effective things. 
+- 🌱 I am not a learner I have a curiosity to know the internal things.
 - 💞️ I’m looking to collaborate on resolving quries.
 - 📫 Reach me on instagram  _im_naman_gupta 
 
